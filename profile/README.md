@@ -7,4 +7,4 @@ Here at Github we'll share code samples and implementation tips.
 
 Here is a screenshot of our consent screen:
 
-<img src='./images/consent-screen.png' width='500'>
+<img src='./images/consent-screen.png](https://github.com/CookieTractor/.github/blob/main/profile/images/consent-screen.png' width='500'>
